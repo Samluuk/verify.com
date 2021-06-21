@@ -1,1 +1,1 @@
-# verifycom
+# verify.com
